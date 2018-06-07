@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "binser"
-version = "0.0-5"
--- LuaDist source
+version = "0.0-6"
 source = {
-  tag = "0.0-5",
-  url = "git://github.com/LuaDist-testing/binser.git"
+   url = "git://github.com/bakpakin/binser",
+   tag = version
 }
--- Original source
--- source = {
---    url = "git://github.com/bakpakin/binser",
---    tag = version
--- }
 description = {
    summary = "Customizable Lua Serializer",
    detailed = [[
